@@ -4,7 +4,7 @@
 // 1.3 - Diferença: Um "erro" em linguagem natural pode ser algo inesperado; já uma "exceção" em JS é um erro específico que pode ser tratado programaticamente.
 
 
-//2. Erros sem Exceções?
+//2. Erros sem Exceções
 const lista = [1, 2, 3];
 console.log(lista[10]);
 
